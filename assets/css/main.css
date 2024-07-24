@@ -1768,6 +1768,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			
 		}
 
 		.image.featured {
@@ -2248,7 +2249,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/tahoe2.jpg");
 			}
 
 			#main > section.two {
